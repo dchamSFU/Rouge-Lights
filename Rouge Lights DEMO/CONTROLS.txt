@@ -1,0 +1,16 @@
+Instructions:
+Use the mouse to click on the main menu items.
+
+Controls:
+
+Left and Right arrow keys to move left and right.
+
+Z key to jump
+
+X key to attack/buy items
+
+General Notes:
+
+You can pay 20 coins to buy a Health Potion when you see it. You can only have 3 hearts max though.
+
+Have fun and let me know what you think!
